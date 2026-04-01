@@ -1,4 +1,4 @@
-# Experiment-14
+# Experiment-13
 ## Title: Data Binning and Data Formatting in Python
 ## Aim
 To study and perform data binning and data formatting techniques using various Python functions and operations.
